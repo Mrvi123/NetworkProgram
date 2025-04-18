@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6452D73-4D84-4C76-8FD3-01579C267DD5}|Server_TransFileSocketAsync\\Server_TransFileSocketAsync.csproj|c:\\users\\lenovo\\source\\repos\\ltm_client\\server_transfilesocketasync\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6452D73-4D84-4C76-8FD3-01579C267DD5}|Server_TransFileSocketAsync\\Server_TransFileSocketAsync.csproj|solutionrelative:server_transfilesocketasync\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952D06F-4C13-4DBB-97DB-B6B04F33822E}|Client_TransFileSocketAsync\\Client_TransFileSocketAsync.csproj|c:\\users\\lenovo\\source\\repos\\ltm_client\\client_transfilesocketasync\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952D06F-4C13-4DBB-97DB-B6B04F33822E}|Client_TransFileSocketAsync\\Client_TransFileSocketAsync.csproj|solutionrelative:client_transfilesocketasync\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6452D73-4D84-4C76-8FD3-01579C267DD5}|Server_TransFileSocketAsync\\Server_TransFileSocketAsync.csproj|c:\\users\\lenovo\\source\\repos\\ltm_client\\server_transfilesocketasync\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6452D73-4D84-4C76-8FD3-01579C267DD5}|Server_TransFileSocketAsync\\Server_TransFileSocketAsync.csproj|solutionrelative:server_transfilesocketasync\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952D06F-4C13-4DBB-97DB-B6B04F33822E}|Client_TransFileSocketAsync\\Client_TransFileSocketAsync.csproj|c:\\users\\lenovo\\source\\repos\\ltm_client\\client_transfilesocketasync\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5952D06F-4C13-4DBB-97DB-B6B04F33822E}|Client_TransFileSocketAsync\\Client_TransFileSocketAsync.csproj|solutionrelative:client_transfilesocketasync\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Server_TransFileSocketAsync\\Server.cs",
+              "RelativeDocumentMoniker": "Server_TransFileSocketAsync\\Server.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Server_TransFileSocketAsync\\Server.cs",
+              "RelativeToolTip": "Server_TransFileSocketAsync\\Server.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwEIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:21:05.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Client_TransFileSocketAsync\\Client.cs",
+              "RelativeDocumentMoniker": "Client_TransFileSocketAsync\\Client.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Client_TransFileSocketAsync\\Client.cs",
+              "RelativeToolTip": "Client_TransFileSocketAsync\\Client.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:30:44.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Server_TransFileSocketAsync\\Server.cs",
+              "RelativeDocumentMoniker": "Server_TransFileSocketAsync\\Server.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Server_TransFileSocketAsync\\Server.cs [Design]",
+              "RelativeToolTip": "Server_TransFileSocketAsync\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:27:34.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Client_TransFileSocketAsync\\Client.cs",
+              "RelativeDocumentMoniker": "Client_TransFileSocketAsync\\Client.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\Client_TransFileSocketAsync\\Client.cs [Design]",
+              "RelativeToolTip": "Client_TransFileSocketAsync\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:26:42.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\bin\Debug\net8.0\Abort_method.exe
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\bin\Debug\net8.0\Abort_method.deps.json
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\bin\Debug\net8.0\Abort_method.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\bin\Debug\net8.0\Abort_method.dll
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\bin\Debug\net8.0\Abort_method.pdb
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\Abort_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\Abort_method.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\Abort_method.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\Abort_method.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\Abort_method.dll
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\refint\Abort_method.dll
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\Abort_method.pdb
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\Abort_method.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Abort_method\Abort_method\obj\Debug\net8.0\ref\Abort_method.dll

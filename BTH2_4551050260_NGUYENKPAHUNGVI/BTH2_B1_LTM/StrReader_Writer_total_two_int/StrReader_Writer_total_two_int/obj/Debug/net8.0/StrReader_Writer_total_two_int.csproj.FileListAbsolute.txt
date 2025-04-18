@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\bin\Debug\net8.0\StrReader_Writer_total_two_int.exe
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\bin\Debug\net8.0\StrReader_Writer_total_two_int.deps.json
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\bin\Debug\net8.0\StrReader_Writer_total_two_int.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\bin\Debug\net8.0\StrReader_Writer_total_two_int.dll
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\bin\Debug\net8.0\StrReader_Writer_total_two_int.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\StrReader_Writer_total_two_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\StrReader_Writer_total_two_int.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\StrReader_Writer_total_two_int.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\StrReader_Writer_total_two_int.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\StrReader_Writer_total_two_int.dll
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\refint\StrReader_Writer_total_two_int.dll
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\StrReader_Writer_total_two_int.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\StrReader_Writer_total_two_int.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_Client\StrReader_Writer_total_two_int\StrReader_Writer_total_two_int\obj\Debug\net8.0\ref\StrReader_Writer_total_two_int.dll

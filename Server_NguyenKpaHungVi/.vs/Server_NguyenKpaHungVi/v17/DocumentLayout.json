@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Server_NguyenKpaHungVi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA7DBE5-278C-4799-B886-6E175B8234DC}|Server_NguyenKpaHungVi\\ServerCau1.csproj|c:\\users\\lenovo\\source\\repos\\server_nguyenkpahungvi\\server_nguyenkpahungvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA7DBE5-278C-4799-B886-6E175B8234DC}|Server_NguyenKpaHungVi\\ServerCau1.csproj|solutionrelative:server_nguyenkpahungvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ADD6FA-B3CB-4D4D-B573-E735867EFCA7}|ServerCau2\\ServerCau3.csproj|c:\\users\\lenovo\\source\\repos\\server_nguyenkpahungvi\\servercau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ADD6FA-B3CB-4D4D-B573-E735867EFCA7}|ServerCau2\\ServerCau3.csproj|solutionrelative:servercau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B61F170-4255-4EDC-95DB-219C264E3119}|ServerCau1\\ServerCau2.csproj|c:\\users\\lenovo\\source\\repos\\server_nguyenkpahungvi\\servercau1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B61F170-4255-4EDC-95DB-219C264E3119}|ServerCau1\\ServerCau2.csproj|solutionrelative:servercau1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Server_NguyenKpaHungVi\\ServerCau2\\Program.cs",
+              "RelativeDocumentMoniker": "ServerCau2\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Server_NguyenKpaHungVi\\ServerCau2\\Program.cs",
+              "RelativeToolTip": "ServerCau2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:19:17.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Server_NguyenKpaHungVi\\ServerCau1\\Program.cs",
+              "RelativeDocumentMoniker": "ServerCau1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Server_NguyenKpaHungVi\\ServerCau1\\Program.cs",
+              "RelativeToolTip": "ServerCau1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:18:48.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Server_NguyenKpaHungVi\\Server_NguyenKpaHungVi\\Program.cs",
+              "RelativeDocumentMoniker": "Server_NguyenKpaHungVi\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Server_NguyenKpaHungVi\\Server_NguyenKpaHungVi\\Program.cs",
+              "RelativeToolTip": "Server_NguyenKpaHungVi\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvzAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:16:20.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

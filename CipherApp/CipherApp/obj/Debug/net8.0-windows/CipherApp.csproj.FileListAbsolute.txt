@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\Form1.resources
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\bin\Debug\net8.0-windows\Debug\net8.0-windows\CipherApp.exe
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\bin\Debug\net8.0-windows\Debug\net8.0-windows\CipherApp.deps.json
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\bin\Debug\net8.0-windows\Debug\net8.0-windows\CipherApp.runtimeconfig.json
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\bin\Debug\net8.0-windows\Debug\net8.0-windows\CipherApp.dll
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\bin\Debug\net8.0-windows\Debug\net8.0-windows\CipherApp.pdb
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.dll
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\refint\CipherApp.dll
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.pdb
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\CipherApp.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\CipherApp\CipherApp\obj\Debug\net8.0-windows\ref\CipherApp.dll

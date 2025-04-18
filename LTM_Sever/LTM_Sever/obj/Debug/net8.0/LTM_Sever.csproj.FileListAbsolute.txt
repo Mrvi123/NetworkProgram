@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\LTM_Sever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\LTM_Sever.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\LTM_Sever.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\LTM_Sever.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\bin\Debug\net8.0\LTM_Sever.exe
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\bin\Debug\net8.0\LTM_Sever.deps.json
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\bin\Debug\net8.0\LTM_Sever.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\bin\Debug\net8.0\LTM_Sever.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\bin\Debug\net8.0\LTM_Sever.pdb
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\LTM_Sever.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\refint\LTM_Sever.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\LTM_Sever.pdb
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\LTM_Sever.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\LTM_Sever\obj\Debug\net8.0\ref\LTM_Sever.dll

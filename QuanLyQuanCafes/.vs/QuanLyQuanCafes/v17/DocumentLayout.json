@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\quanlyquancafes\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|c:\\users\\lenovo\\source\\repos\\quanlyquancafes\\quanlyquancafes\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\quanlyquancafes\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\quanlyquancafes\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\quanlyquancafes\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\quanlyquancafes\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\quanlyquancafes\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\quanlyquancafes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|c:\\users\\lenovo\\source\\repos\\quanlyquancafes\\quanlyquancafes\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6072D3E3-1289-49DA-86F9-2C71B11E8AE8}|QuanLyQuanCafes\\QuanLyQuanCafes.csproj|solutionrelative:quanlyquancafes\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 269,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCafes\\fAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:03:33.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyQuanCafes\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:49:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fAdmin.cs",
+              "RelativeToolTip": "QuanLyQuanCafes\\fAdmin.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:55:10.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProvider.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\DAO\\DataProvider.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCafes\\DAO\\DataProvider.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:48:59.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fTableManager.cs",
+              "RelativeToolTip": "QuanLyQuanCafes\\fTableManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:20:20.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fTableManager.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCafes\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:59:50.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\Program.cs",
+              "RelativeToolTip": "QuanLyQuanCafes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:27:51.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\fLogin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fLogin.cs",
+              "RelativeToolTip": "QuanLyQuanCafes\\fLogin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:42:36.574Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 131,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafes\\fLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\QuanLyQuanCafes\\QuanLyQuanCafes\\fLogin.Designer.cs",
+              "RelativeToolTip": "QuanLyQuanCafes\\fLogin.Designer.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAswGwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:08:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

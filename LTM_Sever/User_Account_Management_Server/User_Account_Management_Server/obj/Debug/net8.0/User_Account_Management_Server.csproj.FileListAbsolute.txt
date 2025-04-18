@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\bin\Debug\net8.0\User_Account_Management_Server.exe
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\bin\Debug\net8.0\User_Account_Management_Server.deps.json
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\bin\Debug\net8.0\User_Account_Management_Server.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\bin\Debug\net8.0\User_Account_Management_Server.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\bin\Debug\net8.0\User_Account_Management_Server.pdb
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\User_Account_Management_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\User_Account_Management_Server.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\User_Account_Management_Server.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\User_Account_Management_Server.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\User_Account_Management_Server.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\refint\User_Account_Management_Server.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\User_Account_Management_Server.pdb
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\User_Account_Management_Server.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\User_Account_Management_Server\User_Account_Management_Server\obj\Debug\net8.0\ref\User_Account_Management_Server.dll

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\bin\Debug\net8.0\Client_ConsoleBTH4_C3.exe
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\bin\Debug\net8.0\Client_ConsoleBTH4_C3.deps.json
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\bin\Debug\net8.0\Client_ConsoleBTH4_C3.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\bin\Debug\net8.0\Client_ConsoleBTH4_C3.dll
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\bin\Debug\net8.0\Client_ConsoleBTH4_C3.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\Client_ConsoleBTH4_C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\Client_ConsoleBTH4_C3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\Client_ConsoleBTH4_C3.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\Client_ConsoleBTH4_C3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\Client_ConsoleBTH4_C3.dll
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\refint\Client_ConsoleBTH4_C3.dll
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\Client_ConsoleBTH4_C3.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\Client_ConsoleBTH4_C3.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_Client\Client_ConsoleBTH4_C3\obj\Debug\net8.0\ref\Client_ConsoleBTH4_C3.dll

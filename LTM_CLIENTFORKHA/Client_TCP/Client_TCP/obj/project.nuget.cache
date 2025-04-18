@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sVQbwqB7CH4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\LTM_CLIENTFORKHA\\Client_TCP\\Client_TCP\\Client_TCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\netcoreserver\\8.0.7\\netcoreserver.8.0.7.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

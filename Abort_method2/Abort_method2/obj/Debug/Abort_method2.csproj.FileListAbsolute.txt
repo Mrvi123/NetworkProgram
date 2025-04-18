@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Abort_method2\Abort_method2\bin\Debug\Abort_method2.exe.config
+C:\Users\LENOVO\source\repos\Abort_method2\Abort_method2\bin\Debug\Abort_method2.exe
+C:\Users\LENOVO\source\repos\Abort_method2\Abort_method2\bin\Debug\Abort_method2.pdb
+C:\Users\LENOVO\source\repos\Abort_method2\Abort_method2\obj\Debug\Abort_method2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Abort_method2\Abort_method2\obj\Debug\Abort_method2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Abort_method2\Abort_method2\obj\Debug\Abort_method2.exe
+C:\Users\LENOVO\source\repos\Abort_method2\Abort_method2\obj\Debug\Abort_method2.pdb

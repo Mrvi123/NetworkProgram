@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "NetCoreServer/8.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/NetCoreServer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/NetCoreServer.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "SimpleTCP/1.0.24": {
+        "type": "package",
+        "compile": {
+          "lib/net45/SimpleTCP.dll": {}
+        },
+        "runtime": {
+          "lib/net45/SimpleTCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreServer/8.0.7": {
+      "sha512": "BhNiJ6EVxKS1eKqlHINy7BruLDc+xCH59oZxu7d2Hve8CzFki69PumVlf6vyAQvIVfxbZiHw/FI3UHNnMajuVg==",
+      "type": "package",
+      "path": "netcoreserver/8.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net8.0/NetCoreServer.dll",
+        "lib/net8.0/NetCoreServer.xml",
+        "netcoreserver.8.0.7.nupkg.sha512",
+        "netcoreserver.nuspec"
+      ]
+    },
+    "SimpleTCP/1.0.24": {
+      "sha512": "mQEKbXruksWRmKeUuID7S+Ltg092EiWXwnomnVYohkY+/rTRiIp4PUTE/bdBEj6oh1gIt0lp4l0GBlwtOhqU5w==",
+      "type": "package",
+      "path": "simpletcp/1.0.24",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/SimpleTCP.dll",
+        "simpletcp.1.0.24.nupkg.sha512",
+        "simpletcp.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "NetCoreServer >= 8.0.7",
+      "SimpleTCP >= 1.0.24"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\LTM_Client\\Client_TCP\\Client_TCP\\Client_TCP.csproj",
+      "projectName": "Client_TCP",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\LTM_Client\\Client_TCP\\Client_TCP\\Client_TCP.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\LTM_Client\\LTM_Client\\Client_TCP\\Client_TCP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "noWarn": [
+          "NU1701"
+        ],
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "NetCoreServer": {
+            "target": "Package",
+            "version": "[8.0.7, )"
+          },
+          "SimpleTCP": {
+            "target": "Package",
+            "version": "[1.0.24, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

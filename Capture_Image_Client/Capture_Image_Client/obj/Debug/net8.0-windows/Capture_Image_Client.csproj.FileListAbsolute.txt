@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.Client_Image.resources
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\bin\Debug\net8.0-windows\Capture_Image_Client.exe
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\bin\Debug\net8.0-windows\Capture_Image_Client.deps.json
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\bin\Debug\net8.0-windows\Capture_Image_Client.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\bin\Debug\net8.0-windows\Capture_Image_Client.dll
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\bin\Debug\net8.0-windows\Capture_Image_Client.pdb
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.dll
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\refint\Capture_Image_Client.dll
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.pdb
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\Capture_Image_Client.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Client\obj\Debug\net8.0-windows\ref\Capture_Image_Client.dll

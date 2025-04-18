@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\bin\Debug\net8.0\Server_ThreadMulptichat.exe
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\bin\Debug\net8.0\Server_ThreadMulptichat.deps.json
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\bin\Debug\net8.0\Server_ThreadMulptichat.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\bin\Debug\net8.0\Server_ThreadMulptichat.dll
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\bin\Debug\net8.0\Server_ThreadMulptichat.pdb
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\Server_ThreadMulptichat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\Server_ThreadMulptichat.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\Server_ThreadMulptichat.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\Server_ThreadMulptichat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\Server_ThreadMulptichat.dll
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\refint\Server_ThreadMulptichat.dll
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\Server_ThreadMulptichat.pdb
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\Server_ThreadMulptichat.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Server_ThreadMulptichat\Server_ThreadMulptichat\obj\Debug\net8.0\ref\Server_ThreadMulptichat.dll

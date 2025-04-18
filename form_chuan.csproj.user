@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="bai_so_2\bai_so_2\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BTH2_4551050260_NGUYENKPAHUNGVI\BTH2_B2_LTM\Client_TCP\Client_TCP\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BTH2_4551050260_NGUYENKPAHUNGVI\BTH2_B2_LTM\Server\Server\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CipherApp\CipherApp\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="from-chuan\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kha\kha\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListBox\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LTM_CLIENTFORKHA\Client_TCP\Client_TCP\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LTM_Client\Client_TransFileSocketAsync\Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LTM_Client\LTM_Client\Client_TCP\Client_TCP\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LTM_Client\LTM_Client\Client_TCP\Server\Server\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LTM_Client\Server_TransFileSocketAsync\Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LTM_SERFORKHA\Server\Server\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyQuanCafes\QuanLyQuanCafes\fAccountProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyQuanCafes\QuanLyQuanCafes\fAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyQuanCafes\QuanLyQuanCafes\fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyQuanCafes\QuanLyQuanCafes\fTableManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Clientchat\MultiClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\MultiServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Server_Sockets-20250318T084623Z-001\Server_Sockets\Server\Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Server_Sockets-20250318T084623Z-001\Server_Sockets\Server_Sockets2\Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WindowsFormsApp1\WindowsFormsApp1\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

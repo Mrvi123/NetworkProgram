@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\bin\Debug\net8.0-windows\Capture_Image_Server_Ver2.exe
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\bin\Debug\net8.0-windows\Capture_Image_Server_Ver2.deps.json
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\bin\Debug\net8.0-windows\Capture_Image_Server_Ver2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\bin\Debug\net8.0-windows\Capture_Image_Server_Ver2.dll
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\bin\Debug\net8.0-windows\Capture_Image_Server_Ver2.pdb
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.Form1.resources
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.dll
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\refint\Capture_Image_Server_Ver2.dll
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.pdb
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\Capture_Image_Server_Ver2.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Capture_Image_Client\Capture_Image_Server_Ver2\obj\Debug\net8.0-windows\ref\Capture_Image_Server_Ver2.dll

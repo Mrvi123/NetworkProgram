@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\bin\Debug\net8.0\SamplePool.exe
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\bin\Debug\net8.0\SamplePool.deps.json
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\bin\Debug\net8.0\SamplePool.runtimeconfig.json
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\bin\Debug\net8.0\SamplePool.dll
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\bin\Debug\net8.0\SamplePool.pdb
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\SamplePool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\SamplePool.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\SamplePool.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\SamplePool.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\SamplePool.dll
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\refint\SamplePool.dll
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\SamplePool.pdb
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\SamplePool.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\SamplePool\SamplePool\obj\Debug\net8.0\ref\SamplePool.dll

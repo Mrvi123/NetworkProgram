@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\bin\Debug\net8.0\Server_TestPoll.exe
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\bin\Debug\net8.0\Server_TestPoll.deps.json
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\bin\Debug\net8.0\Server_TestPoll.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\bin\Debug\net8.0\Server_TestPoll.dll
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\bin\Debug\net8.0\Server_TestPoll.pdb
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\Server_TestPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\Server_TestPoll.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\Server_TestPoll.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\Server_TestPoll.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\Server_TestPoll.dll
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\refint\Server_TestPoll.dll
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\Server_TestPoll.pdb
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\Server_TestPoll.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Server_TestPoll\Server_TestPoll\obj\Debug\net8.0\ref\Server_TestPoll.dll

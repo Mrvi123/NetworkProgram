@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Capture_Image_Server_Ver2/1.0.0": {
+        "runtime": {
+          "Capture_Image_Server_Ver2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capture_Image_Server_Ver2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

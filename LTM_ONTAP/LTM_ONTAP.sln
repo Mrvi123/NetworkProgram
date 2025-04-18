@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTM_ONTAP_Server", "LTM_ONTAP\LTM_ONTAP_Server.csproj", "{7156E740-AE6D-4211-B926-E6075C47CB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTM_ONTAP_Client", "LTM_ONTAP_Client\LTM_ONTAP_Client.csproj", "{AB358AFA-EDAB-474F-A4F3-8D70A380AD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7156E740-AE6D-4211-B926-E6075C47CB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7156E740-AE6D-4211-B926-E6075C47CB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7156E740-AE6D-4211-B926-E6075C47CB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7156E740-AE6D-4211-B926-E6075C47CB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB358AFA-EDAB-474F-A4F3-8D70A380AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB358AFA-EDAB-474F-A4F3-8D70A380AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB358AFA-EDAB-474F-A4F3-8D70A380AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB358AFA-EDAB-474F-A4F3-8D70A380AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E516A8-E4E1-4B88-BC12-4F209F6008EE}
+	EndGlobalSection
+EndGlobal

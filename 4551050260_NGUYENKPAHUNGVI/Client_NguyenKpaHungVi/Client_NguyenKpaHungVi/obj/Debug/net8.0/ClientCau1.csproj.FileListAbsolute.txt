@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\bin\Debug\net8.0\ClientCau1.exe
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\bin\Debug\net8.0\ClientCau1.deps.json
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\bin\Debug\net8.0\ClientCau1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\bin\Debug\net8.0\ClientCau1.dll
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\bin\Debug\net8.0\ClientCau1.pdb
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ClientCau1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ClientCau1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ClientCau1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ClientCau1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ClientCau1.dll
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\refint\ClientCau1.dll
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ClientCau1.pdb
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ClientCau1.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Client_NguyenKpaHungVi\Client_NguyenKpaHungVi\obj\Debug\net8.0\ref\ClientCau1.dll

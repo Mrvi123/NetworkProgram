@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\bin\Debug\net8.0-windows\Multi_Serverchat.exe
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\bin\Debug\net8.0-windows\Multi_Serverchat.deps.json
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\bin\Debug\net8.0-windows\Multi_Serverchat.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\bin\Debug\net8.0-windows\Multi_Serverchat.dll
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\bin\Debug\net8.0-windows\Multi_Serverchat.pdb
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.dll
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\refint\Multi_Serverchat.dll
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.pdb
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\ref\Multi_Serverchat.dll
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Multi_Serverchat\obj\Debug\net8.0-windows\Multi_Serverchat.MultiServer.resources

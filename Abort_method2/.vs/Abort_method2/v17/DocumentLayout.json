@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Abort_method2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33ACEE3-CAB6-4BA2-985F-125F5963EDE0}|Abort_method2\\Abort_method2.csproj|c:\\users\\lenovo\\source\\repos\\abort_method2\\abort_method2\\abort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33ACEE3-CAB6-4BA2-985F-125F5963EDE0}|Abort_method2\\Abort_method2.csproj|solutionrelative:abort_method2\\abort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abort.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Abort_method2\\Abort_method2\\Abort.cs",
+              "RelativeDocumentMoniker": "Abort_method2\\Abort.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Abort_method2\\Abort_method2\\Abort.cs",
+              "RelativeToolTip": "Abort_method2\\Abort.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:35:10.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

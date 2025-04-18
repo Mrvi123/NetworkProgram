@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\bin\Debug\net8.0\LTM_ONTAP.exe
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\bin\Debug\net8.0\LTM_ONTAP.deps.json
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\bin\Debug\net8.0\LTM_ONTAP.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\bin\Debug\net8.0\LTM_ONTAP.dll
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\bin\Debug\net8.0\LTM_ONTAP.pdb
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\LTM_ONTAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\LTM_ONTAP.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\LTM_ONTAP.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\LTM_ONTAP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\LTM_ONTAP.dll
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\refint\LTM_ONTAP.dll
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\LTM_ONTAP.pdb
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\LTM_ONTAP.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_ONTAP\LTM_ONTAP\obj\Debug\net8.0\ref\LTM_ONTAP.dll

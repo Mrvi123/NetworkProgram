@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\bin\Debug\net8.0\Client_TestPoll.exe
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\bin\Debug\net8.0\Client_TestPoll.deps.json
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\bin\Debug\net8.0\Client_TestPoll.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\bin\Debug\net8.0\Client_TestPoll.dll
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\bin\Debug\net8.0\Client_TestPoll.pdb
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\Client_TestPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\Client_TestPoll.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\Client_TestPoll.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\Client_TestPoll.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\Client_TestPoll.dll
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\refint\Client_TestPoll.dll
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\Client_TestPoll.pdb
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\Client_TestPoll.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Client_TestPoll\Client_TestPoll\obj\Debug\net8.0\ref\Client_TestPoll.dll

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|c:\\users\\lenovo\\source\\repos\\capture_image_client\\capture_image_server\\server_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|solutionrelative:capture_image_server\\server_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|c:\\users\\lenovo\\source\\repos\\capture_image_client\\capture_image_server\\server_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|solutionrelative:capture_image_server\\server_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC46BB5E-4A52-4989-958F-EC206580E080}|Capture_Image_Client\\Capture_Image_Client.csproj|c:\\users\\lenovo\\source\\repos\\capture_image_client\\capture_image_client\\client_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC46BB5E-4A52-4989-958F-EC206580E080}|Capture_Image_Client\\Capture_Image_Client.csproj|solutionrelative:capture_image_client\\client_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC46BB5E-4A52-4989-958F-EC206580E080}|Capture_Image_Client\\Capture_Image_Client.csproj|C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\capture_image_client\\client_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC46BB5E-4A52-4989-958F-EC206580E080}|Capture_Image_Client\\Capture_Image_Client.csproj|solutionrelative:capture_image_client\\client_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|c:\\users\\lenovo\\source\\repos\\capture_image_client\\capture_image_server\\server_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|solutionrelative:capture_image_server\\server_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|c:\\users\\lenovo\\source\\repos\\capture_image_client\\capture_image_server\\capture_image_server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{246F5E20-0D69-4D0C-AE01-74DD35CBA7EE}|Capture_Image_Server\\Capture_Image_Server.csproj|solutionrelative:capture_image_server\\capture_image_server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC46BB5E-4A52-4989-958F-EC206580E080}|Capture_Image_Client\\Capture_Image_Client.csproj|c:\\users\\lenovo\\source\\repos\\capture_image_client\\capture_image_client\\client_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC46BB5E-4A52-4989-958F-EC206580E080}|Capture_Image_Client\\Capture_Image_Client.csproj|solutionrelative:capture_image_client\\client_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server_Image.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Server_Image.cs",
+              "RelativeDocumentMoniker": "Capture_Image_Server\\Server_Image.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Server_Image.cs",
+              "RelativeToolTip": "Capture_Image_Server\\Server_Image.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:05:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server_Image.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Server_Image.cs",
+              "RelativeDocumentMoniker": "Capture_Image_Server\\Server_Image.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Server_Image.cs [Design]",
+              "RelativeToolTip": "Capture_Image_Server\\Server_Image.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:05:00.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client_Image.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Client\\Client_Image.cs",
+              "RelativeDocumentMoniker": "Capture_Image_Client\\Client_Image.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Client\\Client_Image.cs [Design]",
+              "RelativeToolTip": "Capture_Image_Client\\Client_Image.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:04:26.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client_Image.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Client\\Client_Image.cs",
+              "RelativeDocumentMoniker": "Capture_Image_Client\\Client_Image.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Client\\Client_Image.cs",
+              "RelativeToolTip": "Capture_Image_Client\\Client_Image.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwCYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:14:26.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server_Image.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Server_Image.Designer.cs",
+              "RelativeDocumentMoniker": "Capture_Image_Server\\Server_Image.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Server_Image.Designer.cs",
+              "RelativeToolTip": "Capture_Image_Server\\Server_Image.Designer.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAIwKEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:06:42.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Capture_Image_Server",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Capture_Image_Server.csproj",
+              "RelativeDocumentMoniker": "Capture_Image_Server\\Capture_Image_Server.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Server\\Capture_Image_Server.csproj",
+              "RelativeToolTip": "Capture_Image_Server\\Capture_Image_Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T13:11:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client_Image.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Client\\Client_Image.Designer.cs",
+              "RelativeDocumentMoniker": "Capture_Image_Client\\Client_Image.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Capture_Image_Client\\Capture_Image_Client\\Client_Image.Designer.cs",
+              "RelativeToolTip": "Capture_Image_Client\\Client_Image.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:05:43.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

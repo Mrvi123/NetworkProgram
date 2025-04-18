@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2988CCE8-13A8-43B8-9DB7-37E81DC82B14}|WpfApp3\\WpfApp3.csproj|c:\\users\\lenovo\\source\\repos\\wpfapp3_1\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988CCE8-13A8-43B8-9DB7-37E81DC82B14}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988CCE8-13A8-43B8-9DB7-37E81DC82B14}|WpfApp3\\WpfApp3.csproj|C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\wpfapp3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988CCE8-13A8-43B8-9DB7-37E81DC82B14}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988CCE8-13A8-43B8-9DB7-37E81DC82B14}|WpfApp3\\WpfApp3.csproj|C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2988CCE8-13A8-43B8-9DB7-37E81DC82B14}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:36:32.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T04:36:33.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\WpfApp3\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\WpfApp3_1\\WpfApp3\\WpfApp3\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp3\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:19:52.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F001C44-4EDC-4239-ACB9-99D064FB8EAF}|..\\FORMCHUAN\\FORMCHUAN.csproj|c:\\users\\lenovo\\source\\formchuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\AppData\\Local\\Temp\\Rar$DIa13128.45728.rartemp\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F001C44-4EDC-4239-ACB9-99D064FB8EAF}|..\\FORMCHUAN\\FORMCHUAN.csproj|c:\\users\\lenovo\\source\\formchuan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F001C44-4EDC-4239-ACB9-99D064FB8EAF}|..\\FORMCHUAN\\FORMCHUAN.csproj|c:\\users\\lenovo\\source\\formchuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\from-chuan\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:from-chuan\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\Rar$DIa13128.45728.rartemp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\Rar$DIa13128.45728.rartemp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\Rar$DIa13128.45728.rartemp\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\Rar$DIa13128.45728.rartemp\\Form1.Designer.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAuwAABAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:40:49.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\from-chuan\\Form1.cs",
+              "RelativeDocumentMoniker": "from-chuan\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\from-chuan\\Form1.cs",
+              "RelativeToolTip": "from-chuan\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:24:51.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\FORMCHUAN\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\FORMCHUAN\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\FORMCHUAN\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\FORMCHUAN\\Form1.Designer.cs",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAAAPwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:23:18.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\FORMCHUAN\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\FORMCHUAN\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\FORMCHUAN\\Form1.cs",
+              "RelativeToolTip": "..\\FORMCHUAN\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:23:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\FORMCHUAN\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\FORMCHUAN\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\FORMCHUAN\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\FORMCHUAN\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:22:21.307Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRarDA4bp4I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\LTM_Sever\\LTM_Sever\\LTM_Sever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

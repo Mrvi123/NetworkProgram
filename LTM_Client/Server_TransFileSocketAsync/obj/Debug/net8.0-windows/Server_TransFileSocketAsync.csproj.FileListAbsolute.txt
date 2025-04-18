@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\bin\Debug\net8.0-windows\Server_TransFileSocketAsync.exe
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\bin\Debug\net8.0-windows\Server_TransFileSocketAsync.deps.json
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\bin\Debug\net8.0-windows\Server_TransFileSocketAsync.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\bin\Debug\net8.0-windows\Server_TransFileSocketAsync.dll
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\bin\Debug\net8.0-windows\Server_TransFileSocketAsync.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.dll
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\refint\Server_TransFileSocketAsync.dll
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\ref\Server_TransFileSocketAsync.dll
+C:\Users\LENOVO\source\repos\LTM_Client\Server_TransFileSocketAsync\obj\Debug\net8.0-windows\Server_TransFileSocketAsync.Server.resources

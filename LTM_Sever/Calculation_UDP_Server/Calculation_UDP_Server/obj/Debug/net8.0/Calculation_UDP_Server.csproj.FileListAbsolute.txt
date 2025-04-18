@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\bin\Debug\net8.0\Calculation_UDP_Server.exe
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\bin\Debug\net8.0\Calculation_UDP_Server.deps.json
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\bin\Debug\net8.0\Calculation_UDP_Server.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\bin\Debug\net8.0\Calculation_UDP_Server.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\bin\Debug\net8.0\Calculation_UDP_Server.pdb
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\Calculation_UDP_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\Calculation_UDP_Server.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\Calculation_UDP_Server.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\Calculation_UDP_Server.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\Calculation_UDP_Server.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\refint\Calculation_UDP_Server.dll
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\Calculation_UDP_Server.pdb
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\Calculation_UDP_Server.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_Sever\Calculation_UDP_Server\Calculation_UDP_Server\obj\Debug\net8.0\ref\Calculation_UDP_Server.dll

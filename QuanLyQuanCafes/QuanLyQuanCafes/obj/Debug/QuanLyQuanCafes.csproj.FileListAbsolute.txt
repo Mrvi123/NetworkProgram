@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\bin\Debug\QuanLyQuanCafes.exe.config
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\bin\Debug\QuanLyQuanCafes.exe
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\bin\Debug\QuanLyQuanCafes.pdb
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.fLogin.resources
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.exe
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.pdb
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.fTableManager.resources
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.fAccountProfile.resources
+C:\Users\LENOVO\source\repos\QuanLyQuanCafes\QuanLyQuanCafes\obj\Debug\QuanLyQuanCafes.fAdmin.resources

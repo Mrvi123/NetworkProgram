@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.Client.resources
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Server_Sockets-20250318T084623Z-001\Server_Sockets\Client\obj\Debug\net8.0-windows\ref\Client.dll

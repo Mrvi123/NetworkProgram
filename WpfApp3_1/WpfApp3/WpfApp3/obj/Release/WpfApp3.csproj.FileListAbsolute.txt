@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\bin\Release\WpfApp3.exe.config
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\bin\Release\WpfApp3.exe
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\bin\Release\WpfApp3.pdb
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\MainWindow.g.cs
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\App.g.cs
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3_MarkupCompile.cache
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3_MarkupCompile.lref
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\MainWindow.baml
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3.g.resources
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3.exe
+C:\Users\LENOVO\source\repos\WpfApp3_1\WpfApp3\WpfApp3\obj\Release\WpfApp3.pdb

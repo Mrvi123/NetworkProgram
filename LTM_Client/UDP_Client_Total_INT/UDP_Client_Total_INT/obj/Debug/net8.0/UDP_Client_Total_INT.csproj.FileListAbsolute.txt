@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\bin\Debug\net8.0\UDP_Client_Total_INT.exe
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\bin\Debug\net8.0\UDP_Client_Total_INT.deps.json
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\bin\Debug\net8.0\UDP_Client_Total_INT.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\bin\Debug\net8.0\UDP_Client_Total_INT.dll
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\bin\Debug\net8.0\UDP_Client_Total_INT.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\UDP_Client_Total_INT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\UDP_Client_Total_INT.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\UDP_Client_Total_INT.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\UDP_Client_Total_INT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\UDP_Client_Total_INT.dll
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\refint\UDP_Client_Total_INT.dll
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\UDP_Client_Total_INT.pdb
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\UDP_Client_Total_INT.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LTM_Client\UDP_Client_Total_INT\UDP_Client_Total_INT\obj\Debug\net8.0\ref\UDP_Client_Total_INT.dll
